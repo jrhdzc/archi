@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAP"
-    id="1ba1a18a-b547-422e-867f-a46ebe318595"/>
+    id="1ba1a18a-b547-422e-867f-a46ebe318595"
+    documentation="SAP"/>
