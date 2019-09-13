@@ -34,7 +34,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1eafc4c3-25ed-4062-8f49-731c359cbc1d"
-        targetConnections="965242e0-df2e-43a7-8282-935b0e93c412 75f1efeb-5d25-4221-88a7-5275d69aeb6c 6c94e8ec-bdbc-4bd0-bd66-7962d6688b14 f837935a-aaf9-4c71-b408-d2ec9970c1c1 436b2bc4-476e-4097-8644-d62f80f0e52e">
+        targetConnections="965242e0-df2e-43a7-8282-935b0e93c412 75f1efeb-5d25-4221-88a7-5275d69aeb6c 6c94e8ec-bdbc-4bd0-bd66-7962d6688b14 f837935a-aaf9-4c71-b408-d2ec9970c1c1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d514472f-0f5a-4378-b1f4-323cf0b6a79c"
@@ -389,8 +389,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7a6eb45e-e09f-4e60-b18b-f7d19788a0ab"
-      targetConnections="1c54a678-8074-46f2-aa2c-875fe6bc64f2">
+      id="7a6eb45e-e09f-4e60-b18b-f7d19788a0ab">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d2bf732a-146c-4e5a-9dc9-e33c7cddd661"
@@ -408,15 +407,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b6119b61-7771-4178-8e30-47a40162ca9c"
-        targetConnections="d2bf732a-146c-4e5a-9dc9-e33c7cddd661">
+        targetConnections="d2bf732a-146c-4e5a-9dc9-e33c7cddd661 2468890f-cedf-49ba-a470-7e7056f8b592">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="436b2bc4-476e-4097-8644-d62f80f0e52e"
+          id="93c059a7-1138-402c-bc21-573886cf7110"
           source="b6119b61-7771-4178-8e30-47a40162ca9c"
-          target="1eafc4c3-25ed-4062-8f49-731c359cbc1d">
+          target="2b40d7bf-6aaa-49d2-a846-f7986e3d574c">
         <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_0ef505e9-1042-4802-b30d-cc28454058ff.xml#0ef505e9-1042-4802-b30d-cc28454058ff"/>
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_10b6af4a-2994-4292-b220-6b50c805e3fc.xml#10b6af4a-2994-4292-b220-6b50c805e3fc"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -443,15 +442,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_3ccd6428-aaf4-41ff-81ac-a1cb216b5f49.xml#3ccd6428-aaf4-41ff-81ac-a1cb216b5f49"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1c54a678-8074-46f2-aa2c-875fe6bc64f2"
-        source="ff1db390-2714-4100-9844-d3d3c55fe42e"
-        target="7a6eb45e-e09f-4e60-b18b-f7d19788a0ab">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_f517d068-0397-4612-9c74-aceb6d1f91e1.xml#f517d068-0397-4612-9c74-aceb6d1f91e1"/>
-    </sourceConnections>
     <bounds
         x="312"
         y="420"
@@ -460,7 +450,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2b40d7bf-6aaa-49d2-a846-f7986e3d574c"
-        targetConnections="070f0ee3-1997-4caf-931f-8bfaa031ac30 7fde24ca-a966-4cef-bc7f-9f070938d9c0">
+        targetConnections="070f0ee3-1997-4caf-931f-8bfaa031ac30 7fde24ca-a966-4cef-bc7f-9f070938d9c0 93c059a7-1138-402c-bc21-573886cf7110">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f837935a-aaf9-4c71-b408-d2ec9970c1c1"
@@ -478,6 +468,15 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_1e516971-5c67-4d6e-a647-518e15bfe363.xml#1e516971-5c67-4d6e-a647-518e15bfe363"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2468890f-cedf-49ba-a470-7e7056f8b592"
+          source="2b40d7bf-6aaa-49d2-a846-f7986e3d574c"
+          target="b6119b61-7771-4178-8e30-47a40162ca9c">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_4897b5f5-0621-4ddb-b539-96cf84d7de7b.xml#4897b5f5-0621-4ddb-b539-96cf84d7de7b"/>
       </sourceConnections>
       <bounds
           x="12"
