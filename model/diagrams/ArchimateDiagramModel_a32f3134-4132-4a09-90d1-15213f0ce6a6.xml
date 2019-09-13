@@ -412,7 +412,7 @@
       <bounds
           x="24"
           y="36"
-          width="85"
+          width="97"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -446,7 +446,7 @@
     <bounds
         x="312"
         y="420"
-        width="120"
+        width="133"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
