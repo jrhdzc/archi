@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAP BW"
-    id="cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"/>
+    id="cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"
+    documentation="BW - Business Warehouse"/>

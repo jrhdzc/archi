@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GTS - Master Data"
+    id="919677cc-4f14-4f7c-8326-ab41299f7a66"
+    documentation="Area responsible for configure Products in SAP for global scope.&#xD;&#xA;If Mexico wants to sell a global product, only extends the product to Mexico to the Selling Organization and Plant"/>

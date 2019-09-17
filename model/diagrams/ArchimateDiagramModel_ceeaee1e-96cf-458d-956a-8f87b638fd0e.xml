@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="01.3 Sales Business Units"
+    name="01.5 Sales Business Units"
     id="ceeaee1e-96cf-458d-956a-8f87b638fd0e"
     viewpoint="organization">
   <children
@@ -44,8 +44,8 @@
           href="CompositionRelationship_016129cd-5571-4c58-b9b9-3f16edc54cf6.xml#016129cd-5571-4c58-b9b9-3f16edc54cf6"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="252"
+        x="72"
+        y="72"
         width="589"
         height="129"/>
     <children

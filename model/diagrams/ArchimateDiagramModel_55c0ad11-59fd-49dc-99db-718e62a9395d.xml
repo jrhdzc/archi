@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="01.2 LAG Organization View"
+    name="01.2 LAG Organization"
     id="55c0ad11-59fd-49dc-99db-718e62a9395d"
     viewpoint="organization">
   <children
@@ -35,9 +35,9 @@
           href="CompositionRelationship_bd5471f1-df24-4482-8f40-8494035a5422.xml#bd5471f1-df24-4482-8f40-8494035a5422"/>
     </sourceConnections>
     <bounds
-        x="216"
-        y="204"
-        width="554"
+        x="132"
+        y="24"
+        width="504"
         height="152"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
