@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="01.3 Supply Chain Organization"
-    id="599ae841-3663-4755-82a6-ebea2d7837cd">
+    id="599ae841-3663-4755-82a6-ebea2d7837cd"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8b291def-34d5-42c5-a232-e848a3376309">
@@ -55,13 +56,13 @@
         x="156"
         y="204"
         width="769"
-        height="133"/>
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f7e243f8-9cf9-4d05-a790-500419c7fa9f"
         targetConnections="6bb64a2d-e7c7-47c8-86b6-085e8dc7a180">
       <bounds
-          x="24"
+          x="480"
           y="36"
           width="120"
           height="55"/>
@@ -74,7 +75,7 @@
         id="09f26e27-dae3-403c-bf52-52ba3c34fa6b"
         targetConnections="8b8ed303-8052-430c-8d98-8a9db7d76b16">
       <bounds
-          x="180"
+          x="624"
           y="36"
           width="120"
           height="55"/>
@@ -100,7 +101,7 @@
         id="4eac1a37-1e58-4b93-aeee-51ab49f1ce54"
         targetConnections="ed95b3aa-a76b-480f-8aaf-17dd507199b6">
       <bounds
-          x="480"
+          x="24"
           y="36"
           width="120"
           height="55"/>
@@ -113,7 +114,7 @@
         id="3543b4fc-e1d0-444f-a54d-7edd4703f3ed"
         targetConnections="11309490-26cc-48b3-bf4a-cd51f637e995">
       <bounds
-          x="624"
+          x="180"
           y="36"
           width="120"
           height="55"/>
