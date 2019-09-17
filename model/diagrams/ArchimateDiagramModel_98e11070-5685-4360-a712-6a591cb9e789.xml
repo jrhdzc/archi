@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="00.3 Customer Service Motivation"
+    id="98e11070-5685-4360-a712-6a591cb9e789"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="41f5929c-1078-4557-bc8b-978c30ee89a7">
+    <bounds
+        x="420"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_3b3dfb7d-58b0-4c63-926b-9eedfd061cf0.xml#3b3dfb7d-58b0-4c63-926b-9eedfd061cf0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
