@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ToolCommerce"
-    id="5e9ba326-3428-4689-8846-8cd27a47b82c"/>
+    id="5e9ba326-3428-4689-8846-8cd27a47b82c"
+    documentation="Application to capture sels orders by the vendor">
+  <properties
+      key="URL"
+      value="https://www.toolcommerce.com"/>
+</archimate:ApplicationComponent>
