@@ -1,0 +1,5 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAG Fill Rate First Pass Report"
+    id="c56e2a04-745a-42a9-843e-b66d96e28514"
+    documentation="Qué tanto de una orden cumplimos, si me pidieron 100 y surtí 90, tengo un 90% de fill rate."/>
