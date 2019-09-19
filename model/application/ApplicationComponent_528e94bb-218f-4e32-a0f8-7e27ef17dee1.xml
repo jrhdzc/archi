@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PAC Invoicing"
+    name="PAC Indicium Solutions"
     id="528e94bb-218f-4e32-a0f8-7e27ef17dee1"
-    documentation="For Mexico only, the provider is Indicium Solutions https://www.indiciumsolutions.com.mx/ &#xD;&#xA;&#xD;&#xA;PAC means CFDI Authorized Certification Provider (Proveedor Autorizado de Certificación de CFDI), is an organization with SAT (Servicio de Administración Tributaria) authorization to validate, assign a fiscal folio and put a SAT's digital stamp on invoices.">
+    documentation="For Mexico only, the provider is Indicium Solutions https://www.indiciumsolutions.com.mx/ &#xD;&#xA;&#xD;&#xA;PAC means Electronic Invoice Authorized Certification Provider (Proveedor Autorizado de Certificación de Factura Electrónica), is an organization with SAT (Servicio de Administración Tributaria) authorization to validate, assign a fiscal folio and put a SAT's digital stamp on invoices.">
   <properties
       key="URL"
       value="https://www.indiciumsolutions.com.mx"/>

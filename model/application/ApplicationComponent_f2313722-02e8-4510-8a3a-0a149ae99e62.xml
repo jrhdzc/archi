@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B2C Ecommerce"
+    id="f2313722-02e8-4510-8a3a-0a149ae99e62"
+    documentation="For Colombia and Chile.&#xD;&#xA;Para que todos los clientes puedan poner Ordenes de Venta directamente en SAP ByDesign, es un proyecto que está en ejecución actualemente en Colombia, en Diciembre'2019 es el objetivo.&#xD;&#xA;Iniciativa en conjunto con Chile&#xD;&#xA;Poner los pedidos por ejemplo en Mercado Libre para que caiga SAP BYDesign&#xD;&#xA;Se valida la creación del cliente y después se ingresa el pedido."/>

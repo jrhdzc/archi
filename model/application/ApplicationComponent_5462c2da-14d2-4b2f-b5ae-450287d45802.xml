@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturación Electrónica"
+    id="5462c2da-14d2-4b2f-b5ae-450287d45802"
+    documentation="Manejado por Carvajal, salieron aproximadamente hace 1 año&#xD;&#xA;Están en un proceso de prevalidación de facturación electrónica van a pedir aprox 10 campos nuevos obligatorios en el XML. &#xD;&#xA;DIAN Entidad Gubernamental que rige el tema impositivo en Colombia"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03. Supply Chain Platforms"
+    name="03. Supply Chain applications"
     id="b02b4384-afad-4e46-b1f0-289bd969b957"
     viewpoint="application_cooperation">
   <children
@@ -47,7 +47,7 @@
             href="SpecializationRelationship_9f242a2b-c0c8-4d78-bbe1-8326e08685e5.xml#9f242a2b-c0c8-4d78-bbe1-8326e08685e5"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="36"
           y="36"
           width="120"
           height="55"/>

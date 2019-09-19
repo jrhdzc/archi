@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WMS - Lisa"
+    id="fd87097b-a837-4458-9a4f-c88cb7d96cf5"
+    documentation="De la empresa Nware&#xD;&#xA;La conexión entre ERP SAP ByDesign -> WMS – LISA, actualmente utiliza iConnect también con WebServices y va a cambiar a GoDirect mediante WebServices"/>
