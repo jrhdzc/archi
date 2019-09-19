@@ -18,9 +18,9 @@
           href="FlowRelationship_4c656648-a2fb-4f25-a849-6add023f51db.xml#4c656648-a2fb-4f25-a849-6add023f51db"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="396"
         y="144"
-        width="300"
+        width="180"
         height="151"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -40,9 +40,9 @@
           href="FlowRelationship_7143a882-6962-4369-8fa5-c45b843c0f9a.xml#7143a882-6962-4369-8fa5-c45b843c0f9a"/>
     </sourceConnections>
     <bounds
-        x="936"
+        x="600"
         y="144"
-        width="300"
+        width="180"
         height="151"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -61,9 +61,9 @@
           href="ServingRelationship_7086a054-f53b-4658-aab4-aa0972b6096e.xml#7086a054-f53b-4658-aab4-aa0972b6096e"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="-48"
-        width="300"
+        x="600"
+        y="-36"
+        width="180"
         height="132"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -120,9 +120,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="432"
-        width="1489"
-        height="145"/>
+        y="348"
+        width="949"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_f1da1311-6e6a-445d-8ee5-78788477a739.xml#f1da1311-6e6a-445d-8ee5-78788477a739"/>
@@ -142,7 +142,7 @@
     </sourceConnections>
     <bounds
         y="144"
-        width="300"
+        width="180"
         height="151"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -162,9 +162,9 @@
           href="FlowRelationship_f67468cd-b7e2-4fcc-bc25-222692ada719.xml#f67468cd-b7e2-4fcc-bc25-222692ada719"/>
     </sourceConnections>
     <bounds
-        x="312"
+        x="192"
         y="144"
-        width="301"
+        width="181"
         height="151"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -184,9 +184,9 @@
           href="FlowRelationship_885a54ae-9edd-46f4-9919-b114f1052045.xml#885a54ae-9edd-46f4-9919-b114f1052045"/>
     </sourceConnections>
     <bounds
-        x="1248"
+        x="804"
         y="144"
-        width="277"
+        width="157"
         height="151"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
