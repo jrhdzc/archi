@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process to determine Total Sales by Country"
+    name="Determine Total Sales by Country - Process"
     id="c2fd24cb-eaa8-4df9-8d24-2a212165184b"
     documentation="This process shows an example for Chile"
     viewpoint="business_process_cooperation">

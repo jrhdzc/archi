@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02. Sales &amp; Operations Functions"
     id="2a7563ab-ccfe-4c7a-a4df-cdafc057bc07"
-    viewpoint="business_process_cooperation"/>
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e27bad95-f614-42dc-8033-c74a80d2f574">
+    <bounds
+        x="96"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_3f2e5c67-5bec-4d4b-a2dd-81b704001e7d.xml#3f2e5c67-5bec-4d4b-a2dd-81b704001e7d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01.4 S&amp;OP - Sales and Operations Organization"
+    id="19d94de1-701c-4490-a3f5-aae0bd2e7108"
+    viewpoint="organization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8311d2e2-be32-428b-bedb-bf3d98564167">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="39c33863-1410-4308-8da8-bad1053015a1"
+        source="8311d2e2-be32-428b-bedb-bf3d98564167"
+        target="85e59a01-1aa5-4e87-9459-62902ed54fed">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_00273a37-9c4b-47f4-b57a-975e64314578.xml#00273a37-9c4b-47f4-b57a-975e64314578"/>
+    </sourceConnections>
+    <bounds
+        x="84"
+        y="96"
+        width="769"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="85e59a01-1aa5-4e87-9459-62902ed54fed"
+        targetConnections="39c33863-1410-4308-8da8-bad1053015a1">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_3f2e5c67-5bec-4d4b-a2dd-81b704001e7d.xml#3f2e5c67-5bec-4d4b-a2dd-81b704001e7d"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_0e16c4eb-257b-425f-9157-a45bcd64ad64.xml#0e16c4eb-257b-425f-9157-a45bcd64ad64"/>
+  </children>
+</archimate:ArchimateDiagramModel>
