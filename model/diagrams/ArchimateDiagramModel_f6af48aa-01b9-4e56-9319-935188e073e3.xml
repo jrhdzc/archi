@@ -161,7 +161,7 @@
     <bounds
         x="423"
         y="24"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -174,7 +174,7 @@
     <bounds
         x="423"
         y="96"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -187,7 +187,7 @@
     <bounds
         x="423"
         y="168"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -200,7 +200,7 @@
     <bounds
         x="423"
         y="240"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -213,7 +213,7 @@
     <bounds
         x="423"
         y="312"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -226,7 +226,7 @@
     <bounds
         x="423"
         y="384"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -239,7 +239,7 @@
     <bounds
         x="423"
         y="456"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
@@ -252,7 +252,7 @@
     <bounds
         x="423"
         y="528"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Representation"
