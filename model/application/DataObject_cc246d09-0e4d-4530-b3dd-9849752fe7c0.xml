@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SAP BW invoicing"
-    id="cc246d09-0e4d-4530-b3dd-9849752fe7c0"/>
+    name="Commercial Reports"
+    id="cc246d09-0e4d-4530-b3dd-9849752fe7c0"
+    documentation="Set of flat files extracted directly from SAP"/>
