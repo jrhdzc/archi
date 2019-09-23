@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Twice with 3001 &amp; 3003"
+    id="48de825c-83de-4f26-8ee4-7652ca2ee752"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1e0393d1-b3a6-4f28-97d8-74c19cf10604.xml#1e0393d1-b3a6-4f28-97d8-74c19cf10604"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_f5ccc362-4bdf-4616-ae03-f41361610032.xml#f5ccc362-4bdf-4616-ae03-f41361610032"/>
+</archimate:AccessRelationship>

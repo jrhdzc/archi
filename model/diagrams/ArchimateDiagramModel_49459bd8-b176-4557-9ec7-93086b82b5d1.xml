@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="20. SAP MM Reports"
+    id="49459bd8-b176-4557-9ec7-93086b82b5d1"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="30a7f4f0-190c-4bdd-aca1-76aa430f91fe">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="94f6e4e4-af96-4969-a0c6-821a52f2e0b5"
+        source="30a7f4f0-190c-4bdd-aca1-76aa430f91fe"
+        target="5e2dad79-07a3-4d91-bfe2-f583124c77b8">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_8e000604-bad0-4208-a8e6-d085d2d648bf.xml#8e000604-bad0-4208-a8e6-d085d2d648bf"/>
+    </sourceConnections>
+    <bounds
+        x="36"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_47663386-620b-4b31-a128-768733df4028.xml#47663386-620b-4b31-a128-768733df4028"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5e2dad79-07a3-4d91-bfe2-f583124c77b8"
+      targetConnections="94f6e4e4-af96-4969-a0c6-821a52f2e0b5">
+    <bounds
+        x="264"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_e43e6db1-29fc-477c-9a35-4181450e7b4c.xml#e43e6db1-29fc-477c-9a35-4181450e7b4c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
