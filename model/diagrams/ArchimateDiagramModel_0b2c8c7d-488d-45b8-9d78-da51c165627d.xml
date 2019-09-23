@@ -52,6 +52,28 @@
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_82739f39-6f41-409d-9e98-ec77dca568e5.xml#82739f39-6f41-409d-9e98-ec77dca568e5"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="315bbfb8-0338-4ea0-a5ba-302a72fa1621"
+        targetConnections="214f3569-d1f5-45a9-bc10-c438a286f571">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="21181c38-fe40-48a7-be2e-9c0f1ce4ea83"
+          source="315bbfb8-0338-4ea0-a5ba-302a72fa1621"
+          target="09a15af6-d428-46cb-8301-6f3896f34c5c">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_6389f7cc-3d50-4124-8291-59924f6d3494.xml#6389f7cc-3d50-4124-8291-59924f6d3494"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_ca627d7b-1f85-4867-be6f-ea76be09ebdc.xml#ca627d7b-1f85-4867-be6f-ea76be09ebdc"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_bcce9a64-2baa-440a-a0e4-6cc3fdfbf766.xml#bcce9a64-2baa-440a-a0e4-6cc3fdfbf766"/>
@@ -307,27 +329,5 @@
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_b9c2d5bc-5fe4-4eb7-9c66-dab6f4291062.xml#b9c2d5bc-5fe4-4eb7-9c66-dab6f4291062"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="315bbfb8-0338-4ea0-a5ba-302a72fa1621"
-      targetConnections="214f3569-d1f5-45a9-bc10-c438a286f571">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="21181c38-fe40-48a7-be2e-9c0f1ce4ea83"
-        source="315bbfb8-0338-4ea0-a5ba-302a72fa1621"
-        target="09a15af6-d428-46cb-8301-6f3896f34c5c">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6389f7cc-3d50-4124-8291-59924f6d3494.xml#6389f7cc-3d50-4124-8291-59924f6d3494"/>
-    </sourceConnections>
-    <bounds
-        x="228"
-        y="324"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_ca627d7b-1f85-4867-be6f-ea76be09ebdc.xml#ca627d7b-1f85-4867-be6f-ea76be09ebdc"/>
   </children>
 </archimate:ArchimateDiagramModel>

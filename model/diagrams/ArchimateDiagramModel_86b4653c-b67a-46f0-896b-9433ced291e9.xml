@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.7. Brands"
+    id="86b4653c-b67a-46f0-896b-9433ced291e9"
+    viewpoint="organization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ee59dd27-0440-493c-b9f8-8663e33a3be0">
+    <bounds
+        x="120"
+        y="72"
+        width="589"
+        height="129"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_c2ddf470-e606-4bb6-8959-f222c6badb7f.xml#c2ddf470-e606-4bb6-8959-f222c6badb7f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
