@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="20. JDA Reports"
+    id="8a7925c0-0741-4ad6-b237-4864c3fa53ef"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="35f5e26b-c751-45d9-bb87-5bf61b3690a7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="a233ab9b-dfb0-4833-951c-f8e7c1f55840"
+        source="35f5e26b-c751-45d9-bb87-5bf61b3690a7"
+        target="0115b341-9d4d-4fe7-806a-4ac81b11c692">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_5f54166e-ae2a-4607-b28a-6a4ba06dbf53.xml#5f54166e-ae2a-4607-b28a-6a4ba06dbf53"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_8a52bb99-4271-4500-ac49-2dd2267cba18.xml#8a52bb99-4271-4500-ac49-2dd2267cba18"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0115b341-9d4d-4fe7-806a-4ac81b11c692"
+      targetConnections="a233ab9b-dfb0-4833-951c-f8e7c1f55840">
+    <bounds
+        x="192"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_8e0202fd-415a-441f-98e9-d3465f85a117.xml#8e0202fd-415a-441f-98e9-d3465f85a117"/>
+  </children>
+</archimate:ArchimateDiagramModel>
