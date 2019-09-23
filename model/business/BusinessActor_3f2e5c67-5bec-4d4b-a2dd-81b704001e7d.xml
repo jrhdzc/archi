@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sales Support"
     id="3f2e5c67-5bec-4d4b-a2dd-81b704001e7d"
-    documentation="Administración de Ventas"/>
+    documentation="Administración de Ventas&#xD;&#xA;Da las ordenes por ingresar del periodo, y lo ingreso manual en el reporte para que se recalcule y actualice el reporte, para tener la visibilidad de que tienes que hacer para llegar al número."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Supply Planning"
-    id="8670c99e-f947-44c7-8cbf-2bfa6039517b"/>
+    id="8670c99e-f947-44c7-8cbf-2bfa6039517b"
+    documentation="Da el recuperación de back order"/>
