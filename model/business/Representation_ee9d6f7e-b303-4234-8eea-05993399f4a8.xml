@@ -1,0 +1,5 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Póliza de diario GrossToNet"
+    id="ee9d6f7e-b303-4234-8eea-05993399f4a8"
+    documentation="Se mete una póliza de diario mensual, viene a cliente código en un XLS, es el soporte de la póliza de diario para afectar las cuentas de GrossToNet a nivel de cliente código."/>
