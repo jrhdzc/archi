@@ -305,4 +305,28 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_fe65d4d7-4e3f-49a7-827e-efd321ff298d.xml#fe65d4d7-4e3f-49a7-827e-efd321ff298d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8644267e-014f-4e43-990c-f22526c23f54">
+    <bounds
+        x="-36"
+        y="492"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_d9333d96-9cba-4f23-8bdb-8380eb36a390.xml#d9333d96-9cba-4f23-8bdb-8380eb36a390"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7b5cade5-3afe-4c09-a9e0-d67607960d05">
+    <bounds
+        x="223"
+        y="521"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_a74b6e46-ac96-4aad-b057-a31140a3b41c.xml#a74b6e46-ac96-4aad-b057-a31140a3b41c"/>
+  </children>
 </archimate:ArchimateDiagramModel>

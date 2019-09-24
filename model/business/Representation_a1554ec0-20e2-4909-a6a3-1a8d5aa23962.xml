@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LAG – FA"
     id="a1554ec0-20e2-4909-a6a3-1a8d5aa23962"
-    documentation="Forecast Accuracy en XLS enviado por Rodolfo Arrue. Confirmar con Rodolfo cual es el reporte que utiliza de SAP BW. Es el resultado de mi asertividad en el forecast. El objetivo sería 56% .">
+    documentation="Forecast Accuracy en XLS enviado por Rodolfo Arrue. Confirmar con Rodolfo cual es el reporte que utiliza de SAP BW. Es el resultado de mi asertividad en el forecast. El objetivo sería 56% . Solo para FinishGoods">
   <properties
       key="Format"
       value="Excel file"/>
