@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="30. Finantial Planning Applications"
+    id="c53a32a3-a61c-4eee-a6fb-d7d46f54ec14"
+    viewpoint="application_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6e576ff8-6237-4f31-8589-aae1a0760c15"
+      targetConnections="16bc2f04-1abc-400b-b99d-8be8147811dd">
+    <bounds
+        x="12"
+        y="12"
+        width="565"
+        height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="af73d5f4-b447-44cf-a037-90cc01ab9357">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="16bc2f04-1abc-400b-b99d-8be8147811dd"
+          source="af73d5f4-b447-44cf-a037-90cc01ab9357"
+          target="6e576ff8-6237-4f31-8589-aae1a0760c15">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_6197e046-f9b1-4d3a-9644-9a58f3d5a206.xml#6197e046-f9b1-4d3a-9644-9a58f3d5a206"/>
+      </sourceConnections>
+      <bounds
+          x="36"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_e4bf7eec-19e1-4fe8-89c6-0912c22ca0f6.xml#e4bf7eec-19e1-4fe8-89c6-0912c22ca0f6"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_0166b498-d18c-4513-89b9-91477a0ff5c1.xml#0166b498-d18c-4513-89b9-91477a0ff5c1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
