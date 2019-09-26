@@ -1,5 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Finance"
+    name="Finance MX"
     id="832d0fd5-ef8e-446f-baab-3a27f992fc1c"
     documentation="se reporta con NetSales (por algun descuento o negociación con algún cliente), lo pasa Finanzas y se sube al sistema&#xD;&#xA;•&#x9;Numbers Walk, trae el forecast valorizado en unidades y a valor neto en USD, viene de SAP "/>

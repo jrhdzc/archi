@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Operations Distribution Center"
-    id="89f3bcb2-820c-4631-bb12-394da6dbb07d"/>
+    name="DC Operations MX"
+    id="89f3bcb2-820c-4631-bb12-394da6dbb07d"
+    documentation="Distribution Center Operations"/>
