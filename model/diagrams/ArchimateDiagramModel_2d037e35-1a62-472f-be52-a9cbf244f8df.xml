@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="30.1 Application landscape - México"
+    name="30.1 MX - Application landscape"
     id="2d037e35-1a62-472f-be52-a9cbf244f8df"
+    documentation="Mexico"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
