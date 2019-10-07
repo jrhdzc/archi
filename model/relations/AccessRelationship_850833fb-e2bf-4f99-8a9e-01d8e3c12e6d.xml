@@ -1,8 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="850833fb-e2bf-4f99-8a9e-01d8e3c12e6d"
-    accessType="2">
+    name="DR change control"
+    id="850833fb-e2bf-4f99-8a9e-01d8e3c12e6d">
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_75da7c3f-9099-4c17-ac65-bde47318843d.xml#75da7c3f-9099-4c17-ac65-bde47318843d"/>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecast improvement"
+    id="09aeff0e-5098-4adb-bcd0-0cae5efcafc3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8c98cda6-aefd-44e0-b052-4298eaa9ffaa.xml#8c98cda6-aefd-44e0-b052-4298eaa9ffaa"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_e36392cc-b3f4-4563-a694-8597633c54a5.xml#e36392cc-b3f4-4563-a694-8597633c54a5"/>
+</archimate:AccessRelationship>

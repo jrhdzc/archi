@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR change control"
+    id="246f4a86-38c0-4c92-95b8-6eb0e6c98dcb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75da7c3f-9099-4c17-ac65-bde47318843d.xml#75da7c3f-9099-4c17-ac65-bde47318843d"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_a053f28d-11cc-4211-85af-6d3ce84855f4.xml#a053f28d-11cc-4211-85af-6d3ce84855f4"/>
+</archimate:AccessRelationship>

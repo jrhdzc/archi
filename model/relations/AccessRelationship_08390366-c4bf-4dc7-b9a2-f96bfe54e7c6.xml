@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inform"
+    id="08390366-c4bf-4dc7-b9a2-f96bfe54e7c6">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_3f2e5c67-5bec-4d4b-a2dd-81b704001e7d.xml#3f2e5c67-5bec-4d4b-a2dd-81b704001e7d"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_b61a387e-eaf3-4391-82e4-05cd795dd25a.xml#b61a387e-eaf3-4391-82e4-05cd795dd25a"/>
+</archimate:AccessRelationship>

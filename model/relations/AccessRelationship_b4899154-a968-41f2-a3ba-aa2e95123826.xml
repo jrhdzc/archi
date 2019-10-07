@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Read forecast"
+    id="b4899154-a968-41f2-a3ba-aa2e95123826"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_042bd575-2d1e-4906-9b4e-9fd7d6ac5298.xml#042bd575-2d1e-4906-9b4e-9fd7d6ac5298"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_2b88d7f2-324d-4f6f-8edb-2754cf33eba4.xml#2b88d7f2-324d-4f6f-8edb-2754cf33eba4"/>
+</archimate:AccessRelationship>

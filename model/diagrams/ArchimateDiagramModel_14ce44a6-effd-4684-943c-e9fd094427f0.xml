@@ -265,29 +265,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="be306289-a384-4942-bd3c-7216427692aa">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1532c18d-ed2d-49ae-99c9-193eff1280a6"
-        source="be306289-a384-4942-bd3c-7216427692aa"
-        target="ec4cba8d-5149-4cde-96df-38d7866c6b29">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_ba8b5c56-b6bc-49cb-81fc-28a9315db254.xml#ba8b5c56-b6bc-49cb-81fc-28a9315db254"/>
-    </sourceConnections>
-    <bounds
-        x="684"
-        y="-60"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_3c07f58a-fa9c-4a69-a61c-8060409530ca.xml#3c07f58a-fa9c-4a69-a61c-8060409530ca"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="ec4cba8d-5149-4cde-96df-38d7866c6b29"
-      targetConnections="e579c891-688b-4c52-9637-0227c8d5c3b5 1532c18d-ed2d-49ae-99c9-193eff1280a6">
+      targetConnections="e579c891-688b-4c52-9637-0227c8d5c3b5">
     <bounds
         x="684"
         y="12"

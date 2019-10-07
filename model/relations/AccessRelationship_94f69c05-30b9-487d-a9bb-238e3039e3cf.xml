@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open PO"
     id="94f69c05-30b9-487d-a9bb-238e3039e3cf"
     accessType="1">
   <source

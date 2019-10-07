@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventory"
     id="18f1f48f-e577-465d-978f-119849e7d706"
     accessType="1">
   <source
