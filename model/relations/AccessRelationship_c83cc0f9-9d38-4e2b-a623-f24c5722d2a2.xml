@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rebates CCA &amp; Ecuador"
+    id="c83cc0f9-9d38-4e2b-a623-f24c5722d2a2"
+    documentation="CCA 6% y Ecuador 15% en promedio">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_3dfb8861-e862-4110-82c1-9b7cd5180672.xml#3dfb8861-e862-4110-82c1-9b7cd5180672"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_37539b58-a5e9-4915-907a-2fd36607ca4a.xml#37539b58-a5e9-4915-907a-2fd36607ca4a"/>
+</archimate:AccessRelationship>

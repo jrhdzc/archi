@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TSOL - TrackSales Online Suite"
+    id="2946ae51-a747-46ca-b105-6b27e2d97dc3">
+  <properties
+      key="URL"
+      value="https://www.grupobit.net/"/>
+</archimate:ApplicationComponent>

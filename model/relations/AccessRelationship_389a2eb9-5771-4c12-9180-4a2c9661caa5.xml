@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locations Miramar &amp; 9223"
+    id="389a2eb9-5771-4c12-9180-4a2c9661caa5"
+    documentation="Miramar - Stock Sales&#xD;&#xA;9223 - Non Stock Sales"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_042bd575-2d1e-4906-9b4e-9fd7d6ac5298.xml#042bd575-2d1e-4906-9b4e-9fd7d6ac5298"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_b3a04c06-d2a1-4e6a-b7e5-b7bc50ed6992.xml#b3a04c06-d2a1-4e6a-b7e5-b7bc50ed6992"/>
+</archimate:AccessRelationship>

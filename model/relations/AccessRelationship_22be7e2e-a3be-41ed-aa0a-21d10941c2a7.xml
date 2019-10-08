@@ -1,12 +1,11 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VAP, Funnel"
-    id="9be42134-3e9c-43d8-98f1-dd01c461f342"
-    documentation="VAP - Volume Action Plan">
+    name="Inform"
+    id="22be7e2e-a3be-41ed-aa0a-21d10941c2a7">
   <source
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_fd199a04-e494-4753-aab6-cbd37c71b7c2.xml#fd199a04-e494-4753-aab6-cbd37c71b7c2"/>
+      href="BusinessActor_9eb83bfd-0e6f-4739-bb6f-07cb8e3506ad.xml#9eb83bfd-0e6f-4739-bb6f-07cb8e3506ad"/>
   <target
       xsi:type="archimate:Representation"
       href="Representation_12a38c6c-8177-44ce-97df-e79bce1292dd.xml#12a38c6c-8177-44ce-97df-e79bce1292dd"/>
