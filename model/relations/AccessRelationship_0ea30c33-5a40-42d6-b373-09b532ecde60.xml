@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Miramar sales"
+    id="0ea30c33-5a40-42d6-b373-09b532ecde60"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_caa2fecb-d067-47f2-8f56-d31cb7c9a281.xml#caa2fecb-d067-47f2-8f56-d31cb7c9a281"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_99651f70-ece6-473e-9cf1-867f362ed873.xml#99651f70-ece6-473e-9cf1-867f362ed873"/>
+</archimate:AccessRelationship>
