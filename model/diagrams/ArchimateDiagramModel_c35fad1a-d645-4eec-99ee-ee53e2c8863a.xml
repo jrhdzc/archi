@@ -115,6 +115,24 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_38bace8b-0fc1-46fd-9485-90e36ab6e1ae.xml#38bace8b-0fc1-46fd-9485-90e36ab6e1ae"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="749e809e-af6f-45c1-b52b-1f9cc88627f9"
+        source="77ca470c-ea1c-430c-9180-93949a9a4d5e"
+        target="b0321735-69ea-4a05-ab68-2d4549082c1b">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_ca8b799c-d4d4-4d44-aadd-6e47f26b26e6.xml#ca8b799c-d4d4-4d44-aadd-6e47f26b26e6"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="90da64ef-d1a6-4e77-a58b-e85f2f1f764c"
+        source="77ca470c-ea1c-430c-9180-93949a9a4d5e"
+        target="3edc0ce7-0ae2-4e05-ac39-4eee90bee7b0">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_c39605e8-581f-40ef-873e-a32415022637.xml#c39605e8-581f-40ef-873e-a32415022637"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="24"
@@ -279,5 +297,31 @@
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_db271895-a358-4d42-8bba-5a10a608de6d.xml#db271895-a358-4d42-8bba-5a10a608de6d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b0321735-69ea-4a05-ab68-2d4549082c1b"
+      targetConnections="749e809e-af6f-45c1-b52b-1f9cc88627f9">
+    <bounds
+        x="900"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_04202a69-0c53-4704-874d-e0dcc5f7c663.xml#04202a69-0c53-4704-874d-e0dcc5f7c663"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3edc0ce7-0ae2-4e05-ac39-4eee90bee7b0"
+      targetConnections="90da64ef-d1a6-4e77-a58b-e85f2f1f764c">
+    <bounds
+        x="1032"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_b3a3e79d-e536-41ff-9be8-90c0c9ce7407.xml#b3a3e79d-e536-41ff-9be8-90c0c9ce7407"/>
   </children>
 </archimate:ArchimateDiagramModel>

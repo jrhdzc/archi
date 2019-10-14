@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InStoreView"
+    id="3ea1b01c-570b-419d-885b-90ac112f23b0">
+  <properties
+      key="URL"
+      value="https://www.instoreview.com"/>
+</archimate:ApplicationComponent>

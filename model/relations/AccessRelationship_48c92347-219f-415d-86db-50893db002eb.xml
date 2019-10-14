@@ -1,13 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GrossToNet"
-    id="1a5410f9-aa30-43b1-bcd4-2ed39a827eaa"
+    id="48c92347-219f-415d-86db-50893db002eb"
     accessType="1">
   <source
       xsi:type="archimate:BusinessService"
-      href="BusinessService_75da7c3f-9099-4c17-ac65-bde47318843d.xml#75da7c3f-9099-4c17-ac65-bde47318843d"/>
+      href="BusinessService_4d2bf0b3-c2b6-4a23-87f6-e30d901d64e3.xml#4d2bf0b3-c2b6-4a23-87f6-e30d901d64e3"/>
   <target
       xsi:type="archimate:Representation"
-      href="Representation_8e0202fd-415a-441f-98e9-d3465f85a117.xml#8e0202fd-415a-441f-98e9-d3465f85a117"/>
+      href="Representation_b9c2d5bc-5fe4-4eb7-9c66-dab6f4291062.xml#b9c2d5bc-5fe4-4eb7-9c66-dab6f4291062"/>
 </archimate:AccessRelationship>

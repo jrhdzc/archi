@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drop Shipment &amp; 241 loc"
+    id="1c145a89-67b1-4291-ab1c-dd339b4ceafb"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1416843d-efda-4547-877b-69718b8102cd.xml#1416843d-efda-4547-877b-69718b8102cd"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_a91b957b-d7a8-469d-85f5-93291613fa62.xml#a91b957b-d7a8-469d-85f5-93291613fa62"/>
+</archimate:AccessRelationship>
