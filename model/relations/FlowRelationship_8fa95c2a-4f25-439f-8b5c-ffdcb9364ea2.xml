@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventory Figures"
+    id="8fa95c2a-4f25-439f-8b5c-ffdcb9364ea2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_79628823-1d86-492c-a5dc-67f0688874a2.xml#79628823-1d86-492c-a5dc-67f0688874a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f.xml#cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"/>
+</archimate:FlowRelationship>
