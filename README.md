@@ -1,2 +1,2 @@
 # archi
-Diagramas Archi para Black &amp; decker
+Diagramas Archi para Stanley Black &amp; Decker
