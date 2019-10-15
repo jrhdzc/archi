@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Billing &amp; Sales Orders"
-    id="d30ca661-fe02-40f7-9a0e-32eb16cf8acf">
+    name="Supply Chain Data"
+    id="32e0b0ba-da12-4ff0-8f4f-5547afc2b46e">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_94fb1489-651d-4038-8d1f-5f04f326cf90.xml#94fb1489-651d-4038-8d1f-5f04f326cf90"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f.xml#cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"/>
+      href="ApplicationComponent_8a52bb99-4271-4500-ac49-2dd2267cba18.xml#8a52bb99-4271-4500-ac49-2dd2267cba18"/>
 </archimate:FlowRelationship>
