@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Reports"
+    id="616982ec-336d-44cc-8a0e-26ec0b266da1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8a52bb99-4271-4500-ac49-2dd2267cba18.xml#8a52bb99-4271-4500-ac49-2dd2267cba18"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_59a12e0a-33b4-48e0-b7a9-6bbb244c28ed.xml#59a12e0a-33b4-48e0-b7a9-6bbb244c28ed"/>
+</archimate:FlowRelationship>

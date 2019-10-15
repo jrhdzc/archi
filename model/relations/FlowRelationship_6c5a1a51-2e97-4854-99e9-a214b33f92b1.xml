@@ -1,12 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Unified Materials Catalogue"
-    id="20af6f34-07b7-471a-8a86-3dde071357b3">
+    id="6c5a1a51-2e97-4854-99e9-a214b33f92b1">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_fbead472-53dd-4a05-abb8-fa10485b83f4.xml#fbead472-53dd-4a05-abb8-fa10485b83f4"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f.xml#cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"/>
+      href="ApplicationComponent_94fb1489-651d-4038-8d1f-5f04f326cf90.xml#94fb1489-651d-4038-8d1f-5f04f326cf90"/>
 </archimate:FlowRelationship>

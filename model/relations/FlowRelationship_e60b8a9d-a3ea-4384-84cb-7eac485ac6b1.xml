@@ -2,10 +2,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Billing &amp; Sales Orders"
-    id="1b669449-52f9-4225-ab52-88fc11b6d671">
+    id="e60b8a9d-a3ea-4384-84cb-7eac485ac6b1">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_4f66a931-6096-4157-b5f3-5bcebdc6641b.xml#4f66a931-6096-4157-b5f3-5bcebdc6641b"/>
+      href="ApplicationComponent_2f27420c-e500-43d9-8994-0a6ce55a27f7.xml#2f27420c-e500-43d9-8994-0a6ce55a27f7"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f.xml#cf0acd8f-6a4b-403f-8ea9-b15c6e93b71f"/>
