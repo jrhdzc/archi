@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Confirmatio Orders"
+    name="Confirmation Orders"
     id="a4de23bd-6c2b-43b2-87ff-72b557e16d12">
   <source
       xsi:type="archimate:ApplicationComponent"
